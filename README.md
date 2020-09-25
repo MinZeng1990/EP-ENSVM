@@ -12,9 +12,11 @@ imblearn==0.7.0
 # Usage
 In this GitHub project, we give a demo to show how EP-ENSVM works. 
 
-In Raw data folder, we give the raw protein sequences and their labels.
+In Raw data folder, we provide the raw protein sequences and their labels.
 
-In predicted results by 8 centrality methods folder, we give the results of 8 centrality methods. 
+In Processed features folder, we provide the processed protein sequence features obtained by Pseudo Amino Acid Composition (PseAAC) tool. 
+
+In predicted results by 8 centrality methods folder, we provide the results of 8 centrality methods. 
 
 In 
 
