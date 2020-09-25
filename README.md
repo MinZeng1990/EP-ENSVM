@@ -27,6 +27,9 @@ python train_main.py --type h --threshold 0.5
 leave-one-out cross validation to evaluate our model. You can use cross_validation.py to see experimental results and predict lncRNA related diseases. 
 If you want to tune some hyper-parameters, you can change some values of hyper-parameters in train_main.py. 
 The other details can see the paper and the codes.
-  
-
+ 
+# Contact
+If any questions, please do not hesitate to contact me at:
+Min Zeng   zengmin@csu.edu.cn
+Min Li     limin@mail.csu.edu.cn
 
