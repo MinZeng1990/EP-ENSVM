@@ -30,6 +30,7 @@ The other details can see the paper and the codes.
  
 # Contact
 If any questions, please do not hesitate to contact me at:
-Min Zeng   zengmin@csu.edu.cn
+Min Zeng   zengmin@csu.edu.cn  
+or
 Min Li     limin@mail.csu.edu.cn
 
