@@ -3,13 +3,11 @@
 EP-ENSVM is a computational approach for essential protein prediction by using only sequence information. 
 
 # Requirements
-tensorflow==1.3.0
+numpy==1.18.1
 
-numpy==1.11.2
+scikit-learn==0.23.1
 
-scikit-learn==0.18
-
-scipy==0.18.1
+imblearn==0.7.0
 
 # Input data
 data_h.pkl 
