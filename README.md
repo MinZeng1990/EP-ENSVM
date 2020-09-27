@@ -18,14 +18,17 @@ In Processed features folder, we provide the processed protein sequence features
 
 In predicted results by 8 centrality methods folder, we provide the results of 8 centrality methods. 
 
+data_h.pkl and data_y.pkl are used to store the sampled positive and negative samples of human and yeast, respectively.
 
-In our demo, we provide a 
-data_h.pkl is used to store the sampled positive and negative samples.
+In our demo, we provide a python file (train_main.py) to train and evaluate the ensemble classifier. 
+
 You can train the model with a very simple way by the command blow:
+
 python train_main.py --type h --threshold 0.5
 
-leave-one-out cross validation to evaluate our model. You can use cross_validation.py to see experimental results and predict lncRNA related diseases. 
+
 If you want to tune some hyper-parameters, you can change some values of hyper-parameters in train_main.py. 
+
 The other details can see the paper and the codes.
  
 # Contact
