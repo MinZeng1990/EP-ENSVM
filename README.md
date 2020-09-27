@@ -20,9 +20,7 @@ In predicted results by 8 centrality methods folder, we provide the results of 8
 
 data_h.pkl and data_y.pkl are used to store the sampled positive and negative samples of human and yeast, respectively.
 
-In our demo, we provide a python file (train_main.py) to train and evaluate the ensemble classifier. 
-
-You can train the model with a very simple way by the command blow:
+In our demo, we provide a python file (train_main.py) to train and evaluate the ensemble classifier. You can train the model with a very simple way by the command blow:
 
 `python train_main.py --type h --threshold 0.5`
 
