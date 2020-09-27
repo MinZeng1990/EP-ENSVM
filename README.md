@@ -24,7 +24,7 @@ In our demo, we provide a python file (train_main.py) to train and evaluate the 
 
 You can train the model with a very simple way by the command blow:
 
-python train_main.py --type h --threshold 0.5
+ python train_main.py --type h --threshold 0.5
 
 
 If you want to tune some hyper-parameters, you can change some values of hyper-parameters in train_main.py. 
